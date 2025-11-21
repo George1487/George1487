@@ -9,6 +9,6 @@
   background: #0f0f0f;
 ">
   <a href="https://leetcode.com/George1487/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ssokov?theme=dark&font=Karla&ext=heatmap" width="520" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/George1487?theme=dark&font=Karla&ext=heatmap" width="520" alt="LeetCode Stats"/>
   </a>
 </div>
