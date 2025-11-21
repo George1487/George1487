@@ -1,16 +1,14 @@
-## Hi there 👋
+##  LeetCode Stats
 
-<!--
-**George1487/George1487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="
+  padding: 15px;
+  border-radius: 16px;
+  border: 1px solid #2d2d2d;
+  width: fit-content;
+  margin: auto;
+  background: #0f0f0f;
+">
+  <a href="https://leetcode.com/George1487/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ssokov?theme=dark&font=Karla&ext=heatmap" width="520" alt="LeetCode Stats"/>
+  </a>
+</div>
